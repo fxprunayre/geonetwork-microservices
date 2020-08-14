@@ -1,0 +1,26 @@
+{
+	"library": "spring-boot",
+	"modelPackage": "org.geonetwork-opensource.rest.ogc.api",
+	"apiPackage": "org.geonetwork-opensource.rest.ogc.api",
+	"invokerPackage": "org.geonetwork-opensource.rest.ogc.api",
+	"generateApis": "true",
+	"generateModels": "true",
+	"addCompileSourceRoot": "true",
+	"generateSupportingFiles": "true",
+	"supportingFilesToGenerate": "ApiUtil.java",
+	"validateSpec": "false",
+	"dateLibrary": "java8",
+	"useTags": "true",
+	"interfaceOnly": "true",
+	"sourceFolder": "src",
+	"swaggerDocketConfig": "false",
+	"useRuntimeException": "true",
+	"useBeanValidation": "false",
+	"performBeanValidation": "false",
+	"generateApiDocumentation": "false",
+	"generateApiTests": "false",
+	"generateModelDocumentation": "false",
+	"generateModelTests": "false",
+	"importMappings": {
+	}
+}
